@@ -7,8 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelk92@gmail.com)](mailto:michelk92@gmail.com)
 
 
-- I’m currently working on personal projects with Javascript and Python
-- I’m currently learning Javascript and a little bit of Flutter
-- 
+I’m currently working on personal projects with Javascript and Python
+I’m currently learning Javascript and a little bit of Flutter
 
-- Thanks for visiting
