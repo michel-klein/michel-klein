@@ -45,7 +45,7 @@ I’m currently working on personal projects using Javascript and Python
 <a href=https://github.com/michel-klein/mobile-challenge-flutter>Person API flutter</a> - Mobile APP which consumes a API with fake user data and shows a list, with filters by country and gender.
 
 ## Most used languages
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=0' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=michel-klein&theme=tokyonight&hide_langs_below=0' />
 
 ## Github Stats
 <img src='https://github-readme-stats.vercel.app/api?username=michel-klein&show_icons=true&theme=tokyonight' />
