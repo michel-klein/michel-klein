@@ -8,9 +8,9 @@
 
 Experience with Machine Learning and Data Science using Python
 
-Learning Javascript (mainly Frontend development) and a little bit of Flutter
+In the moment, working as a front-end developer, creating new features in a digital producer management application. Also involved in migrating the application to the microfrontend architecture.
 
-I’m currently working on personal projects using Javascript and Python
+Learning PHP, Ruby on Rails and Flutter.
 
 ## Skills
 <a href="https://python.org/">
